@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 # remote_theme: mmistakes/minimal-mistakes
 title: "Amaebi Amara"
 description: "Developer Resume"
-include: ["assets/css"]
+# include: ["assets/css"]
