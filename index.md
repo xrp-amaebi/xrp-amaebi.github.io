@@ -10,4 +10,4 @@
 - **Project Name** - Description of what you did  
 
 ## Education  
-- **Niger Delta University Wilberforce Island** - Degree (2012-2018)  
+- **Niger Delta University Wilberforce Island** - Engineering (2012-2018)  
