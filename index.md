@@ -7,7 +7,7 @@
 
 ## Experience  
 - **Company Name** - Backend Developer (2024–Present)  
-- **MVVA Lagos** - Description of what you did  
+- **MVVA Lagos** - Description  
 
 ## Education  
 - **Niger Delta University Wilberforce Island** (2012-2018)  
