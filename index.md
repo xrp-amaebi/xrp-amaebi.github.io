@@ -1,5 +1,5 @@
 # Amaebi Amara
-**Developer | Full-Stack Developer**  
+**Typescript, Go | Full-Stack Developer**  
 
 - 💻 Skills: JavaScript, TypeScript, React, NestJS  
 - 🌍 GitHub: [github.com/xrp-amaebi](https://github.com/xrp-amaebi)  
