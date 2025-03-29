@@ -6,8 +6,8 @@
 - 📧 Email: amaebiamara@gmail.com  
 
 ## Experience  
-- **Company Name** - Backend Developer (2024–Present)  
-- **MVVA Lagos** - Description  
+- **Mvva-Lagos** - Backend Developer (2024–Present)  
+- **Central Authentication Server** - Description  
 
 ## Education  
-- **Niger Delta University Wilberforce Island** (2012-2018)  
+- **Niger Delta University, Wilberforce Island** (2012-2018)  
